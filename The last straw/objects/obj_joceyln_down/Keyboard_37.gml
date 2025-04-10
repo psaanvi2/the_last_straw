@@ -1,5 +1,7 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 7F7F4EBC
-/// @DnDArgument : "speed" "2"
-speed = 2;
+/// @DnDHash : 356510C3
+/// @DnDArgument : "expr" "-movespeed"
+/// @DnDArgument : "expr_relative" "1"
+/// @DnDArgument : "var" "x"
+x += -movespeed;

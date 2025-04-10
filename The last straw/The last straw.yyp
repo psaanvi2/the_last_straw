@@ -49,6 +49,7 @@
     {"id":{"name":"joceyln_right","path":"sprites/joceyln_right/joceyln_right.yy",},},
     {"id":{"name":"joceyln_up","path":"sprites/joceyln_up/joceyln_up.yy",},},
     {"id":{"name":"spr_tiles","path":"sprites/spr_tiles/spr_tiles.yy",},},
+    {"id":{"name":"Sprite8","path":"sprites/Sprite8/Sprite8.yy",},},
     {"id":{"name":"t_tiles","path":"tilesets/t_tiles/t_tiles.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
     {"id":{"name":"TileSet3","path":"tilesets/TileSet3/TileSet3.yy",},},
