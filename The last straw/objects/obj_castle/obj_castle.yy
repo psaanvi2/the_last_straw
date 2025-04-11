@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"obj_castle",
   "eventList":[],
   "managed":true,
-  "name":"Object3",
+  "name":"obj_castle",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_castle",
+    "path":"sprites/spr_castle/spr_castle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
