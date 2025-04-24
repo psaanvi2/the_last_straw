@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_castle",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_joceyln_down","path":"objects/obj_joceyln_down/obj_joceyln_down.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_castle",
   "overriddenProperties":[],

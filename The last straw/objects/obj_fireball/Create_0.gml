@@ -58,4 +58,13 @@ if(direction == 0){	/// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 	/// @DnDVersion : 1
 	/// @DnDHash : 7585FF7E
 	/// @DnDParent : 460AE151
-	image_angle = 0;}
+	image_angle = 0;
+
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 02D98BC2
+	/// @DnDParent : 460AE151
+	/// @DnDArgument : "soundid" "sd_win"
+	/// @DnDArgument : "gain" "2"
+	/// @DnDSaveInfo : "soundid" "sd_win"
+	audio_play_sound(sd_win, 0, 0, 2, undefined, 1.0);}
